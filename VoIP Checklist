@@ -1,5 +1,4 @@
-
-# VoIP Checklist for Penetration Testers - Panagiotis Gkatziroulis
+VoIP Checklist for Penetration Testers - Panagiotis Gkatziroulis
 
 VoIP-001 - VLAN hopping from data network to voice network
 VoIP-002 - Extension Enumeration & Number Harvesting
